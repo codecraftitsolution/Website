@@ -173,6 +173,10 @@ const Footer = () => {
                 <li key={link.name}>
                   <a
                     href={link.href}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      scrollToSection(link.href);
+                    }}
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     {link.name}
@@ -190,6 +194,10 @@ const Footer = () => {
                 <li key={link.name}>
                   <a
                     href={link.href}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      scrollToSection(link.href);
+                    }}
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     {link.name}
