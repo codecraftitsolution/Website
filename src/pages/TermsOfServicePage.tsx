@@ -30,7 +30,7 @@ const TermsOfServicePage = () => {
 
         <div className="glass-card p-8 md:p-12 rounded-2xl border border-white/10 backdrop-blur-md bg-black/40 prose prose-invert max-w-none">
           <p className="lead text-xl mb-8">
-            These Terms & Conditions ("Terms") govern the use of services provided by Code Craft IT Solutions.
+            These Terms & Conditions ("Terms") govern the use of services provided by Code Craft IT Solution.
             By hiring us or using our services, you agree to these Terms.
           </p>
 
@@ -38,7 +38,7 @@ const TermsOfServicePage = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">1. Service Scope</h2>
               <p className="text-muted-foreground">
-                Code Craft IT Solutions provides IT and software development services according to a mutually agreed project scope.
+                Code Craft IT Solution provides IT and software development services according to a mutually agreed project scope.
                 Any work outside the defined scope will be considered additional work and charged separately.
               </p>
             </section>
@@ -61,7 +61,7 @@ const TermsOfServicePage = () => {
                 <li>Scope stability</li>
                 <li>Quality and timing of provided content</li>
               </ul>
-              <p className="text-muted-foreground mt-3">Code Craft IT Solutions is not responsible for delays caused by the client.</p>
+              <p className="text-muted-foreground mt-3">Code Craft IT Solution is not responsible for delays caused by the client.</p>
             </section>
 
             <section>
@@ -70,7 +70,7 @@ const TermsOfServicePage = () => {
                 4. Ownership & Intellectual Property
               </h2>
               <ul className="list-disc pl-5 space-y-1 text-muted-foreground">
-                <li>All project assets remain the property of Code Craft IT Solutions until full payment is received.</li>
+                <li>All project assets remain the property of Code Craft IT Solution until full payment is received.</li>
                 <li>After complete payment, ownership transfers to the client.</li>
                 <li>The company may display the project in its portfolio unless the client requests otherwise in writing.</li>
               </ul>
@@ -106,7 +106,7 @@ const TermsOfServicePage = () => {
 
             <section>
               <h2 className="text-2xl font-bold mb-4">8. Termination</h2>
-              <p className="text-muted-foreground mb-3">Code Craft IT Solutions may terminate a project if:</p>
+              <p className="text-muted-foreground mb-3">Code Craft IT Solution may terminate a project if:</p>
               <ul className="list-disc pl-5 space-y-1 text-muted-foreground">
                 <li>Payments are delayed</li>
                 <li>Terms are violated</li>

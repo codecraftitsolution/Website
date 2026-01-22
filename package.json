@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://codecraftpakistan.github.io/Final-website/",
+  "homepage": "https://codecraftitsolution.github.io/Website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --repo https://github.com/codecraftitsolution/Website.git"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

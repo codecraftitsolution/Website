@@ -4,8 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  // Base path removed for direct access
-  // base: '/Final-website/',
+  base: '/Website/',
   server: {
     host: "::",
     port: 8080,

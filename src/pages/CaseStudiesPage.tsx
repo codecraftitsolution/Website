@@ -35,7 +35,7 @@ const CaseStudiesPage = () => {
                     <div>
                         <span className="text-primary font-bold tracking-wider uppercase text-sm mb-2 block">Featured Case Study</span>
                         <h2 className="text-3xl font-bold mb-2">Privacy & Policy Framework Implementation</h2>
-                        <p className="text-muted-foreground">Client: Code Craft IT Solutions</p>
+                        <p className="text-muted-foreground">Client: Code Craft IT Solution</p>
                     </div>
                 </div>
 
@@ -97,7 +97,7 @@ const CaseStudiesPage = () => {
               <div className="bg-primary/10 p-6 border-t border-white/10">
                  <p className="text-center font-medium">
                     <span className="text-primary font-bold">Outcome: </span>
-                    Code Craft IT Solutions now has a complete policy & documentation system, suitable for clients, employees, and corporate compliance.
+                    Code Craft IT Solution now has a complete policy & documentation system, suitable for clients, employees, and corporate compliance.
                  </p>
               </div>
             </div>
