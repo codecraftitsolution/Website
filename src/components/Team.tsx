@@ -45,7 +45,7 @@ const teamMembers = [
     role: 'Web Developer',
     image: asad,
     bio: 'Java Backend Developer with strong knowledge of Java, Spring, Spring Boot, Servlets, REST APIs, and MySQL',
-    social: { linkedin: '#', twitter: '#', github: '#', website: '#' },
+    social: { linkedin: '#', twitter: '#', github: 'https://github.com/AsadullahA1/', website: '#' },
   },
   {
     name: 'Amna Noor',

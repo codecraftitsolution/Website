@@ -75,7 +75,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/codecraftitsolution', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/company/code-craft-it-solution', label: 'LinkedIn' },
-    { icon: XIcon, href: 'https://x.com/codecraftpak', label: 'X (Twitter)' },
+    { icon: XIcon, href: 'https://x.com/codecraftitsol', label: 'X (Twitter)' },
     { icon: Instagram, href: 'https://www.instagram.com/codecraftitsolution?igsh=eWZndDV5NzlqbWpn', label: 'Instagram' },
     { icon: Facebook, href: 'https://www.facebook.com/share/1ALf5mPbRF/', label: 'Facebook' },
     { icon: TikTokIcon, href: 'https://www.tiktok.com/@codecraftitsolution?_r=1&_t=ZS-93FevPYgncW', label: 'TikTok' },
