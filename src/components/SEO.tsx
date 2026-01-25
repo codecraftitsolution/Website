@@ -13,7 +13,7 @@ interface SEOProps {
 const SEO: React.FC<SEOProps> = ({
   title = "Code Craft It Solution ",
   description = "Code Craft It Solution delivers world-class software solutions. Web development, mobile apps, and digital transformation.",
-  keywords = "software development, web development, mobile apps, digital agency, Code Craft It Solution, Pakistan",
+  keywords = "software development, web development, mobile apps, digital agency, Code Craft It Solution",
   author = "Code Craft It Solution",
   ogImage = "/og-image.png", // Ensure this image exists in your public folder
   url = "https://codecraftpk.com"

@@ -67,7 +67,7 @@ const Contact: React.FC = () => {
           from_email: formData.email,
           subject: formData.subject,
           message: formData.message,
-          to_email: 'codecraftpakistan@gmail.com',
+          to_email: 'codecraftitsol@gmail.com',
           // Makes “Reply” in your email client go to the sender
           reply_to: formData.email,
         },
