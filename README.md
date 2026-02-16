@@ -1,6 +1,6 @@
-# Code Craft It Solution
+# Code Cryptical IT Innovators
 
-Code Craft It Solution is a premium software agency website built with modern web technologies. This project showcases the company's services, team, portfolio, and career opportunities, featuring a sleek, responsive design and seamless user experience.
+Code Cryptical IT Innovators is a premium software agency website built with modern web technologies. This project showcases the company's services, team, portfolio, and career opportunities, featuring a sleek, responsive design and seamless user experience.
 
 ![Project Banner](public/og-image.png)
 
@@ -77,12 +77,12 @@ npm run build
 
 ## 📄 License
 
-This project is proprietary to **Code Craft It Solution**. All rights reserved.
+This project is proprietary to **Code Cryptical IT Innovators**. All rights reserved.
 
 ---
 
 ### Contact Us
 
-*   **Website**: [Code Craft It Solution](https://codecraftpakistan.github.io/Final-website/)
+*   **Website**: [Code Cryptical IT Innovators](https://codecraftpakistan.github.io/Final-website/)
 *   **Email**: codecraftitsol@gmail.com
-*   **LinkedIn**: [Code Craft It Solution](https://www.linkedin.com/company/code-craft-it-solution)
+*   **LinkedIn**: [Code Cryptical IT Innovators](https://www.linkedin.com/company/code-craft-it-solution)

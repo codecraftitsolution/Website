@@ -120,11 +120,11 @@ const Footer = () => {
               }}
             >
               <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center">
-                <img src={logo} alt="Code Craft It Solution logo" className="w-full h-full object-cover" />
-              </div>
-              <span className="font-display font-bold text-xl text-foreground">
-                Code<span className="gradient-text"> Craft It</span><span> Solution</span>
-              </span>
+              <img src={logo} alt="Code Cryptical IT Innovators logo" className="w-full h-full object-cover" />
+            </div>
+            <span className="font-display font-bold text-xl text-foreground">
+              Code<span className="gradient-text"> Cryptical</span> <span className="font-display font-bold text-xl text-foreground">IT Innovators</span>
+            </span>
             </motion.div>
             <p className="text-muted-foreground mb-6 max-w-sm">
               Transforming ideas into powerful digital solutions. We're your trusted partner for
@@ -212,7 +212,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-border">
           <div className="flex justify-center items-center text-center">
             <p className="text-sm text-muted-foreground">
-              © {currentYear} Code Craft It Solution. Created by Khalid Bin Waheed. All rights reserved.
+              © {currentYear} Code Cryptical IT Innovators. Created by Khalid Bin Waheed. All rights reserved.
             </p>
           </div>
         </div>

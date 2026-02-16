@@ -24,7 +24,7 @@ const CoursesPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Professional Courses" 
-        description="Enhance your skills with expert-led courses and certifications from Code Craft It Solution."
+        description="Enhance your skills with expert-led courses and certifications from Code Cryptical IT Innovators."
       />
       <Header />
       <main className="flex-grow pt-24">

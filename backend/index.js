@@ -43,7 +43,7 @@ transporter.verify((error, success) => {
 
 // API Routes
 app.get('/', (req, res) => {
-    res.send('Code Craft Backend is running!');
+    res.send('Code Cryptical IT Innovators Backend is running!');
 });
 
 app.post('/api/send-email', upload.single('resume'), async (req, res) => {
@@ -90,18 +90,18 @@ app.post('/api/send-email', upload.single('resume'), async (req, res) => {
 
         // 2. Auto-Reply to Candidate
         const userMailOptions = {
-            from: `"Code Craft It Solution" <${process.env.EMAIL_USER}>`,
+            from: `"Code Cryptical IT Innovators" <${process.env.EMAIL_USER}>`,
             to: email,
             subject: `Application Received: ${role}`,
             text: `
                 Dear ${name},
 
-                Thank you for applying to Code Craft It Solution for the position of ${role}.
+                Thank you for applying to Code Cryptical IT Innovators for the position of ${role}.
 
                 We have successfully received your application. Our team will review your profile and contact you if it matches our requirements.
 
                 Best regards,
-                Code Craft It Solution Team
+                Code Cryptical IT Innovators Team
             `
         };
 

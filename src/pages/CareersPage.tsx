@@ -7,7 +7,8 @@ import { Button } from '@/components/ui/button';
 import { useNavigate } from 'react-router-dom';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue,
+} from '@/components/ui/select';
 import ApplicationForm from '@/components/ApplicationForm';
 import SEO from '@/components/SEO';
 
@@ -21,7 +22,7 @@ const CareersPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Careers" 
-        description="Join the Code Craft It Solution team. Explore job openings, internships, and professional courses."
+        description="Enhance your skills with expert-led courses and certifications from Code Cryptical IT Innovators. Explore job openings, internships, and professional courses."
       />
       <Header />
       <main className="flex-grow pt-24">

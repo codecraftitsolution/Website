@@ -10,7 +10,7 @@ const DocumentationPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Documentation" 
-        description="Technical documentation, company policies, and project guidelines for Code Craft It Solution."
+        description="Technical documentation, company policies, and project guidelines for Code Cryptical IT Innovators."
       />
       <Header />
       <main className="flex-grow pt-24">
@@ -25,7 +25,7 @@ const DocumentationPage = () => {
               <Book className="w-16 h-16 mx-auto text-primary mb-6" />
               <h1 className="text-4xl md:text-5xl font-display font-bold mb-6">Company Documentation</h1>
               <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-                Summarizing how Code Craft It Solution manages client projects, privacy, and security.
+                Summarizing how Code Cryptical IT Innovators manages client projects, privacy, and security.
               </p>
             </div>
 
@@ -64,7 +64,7 @@ const DocumentationPage = () => {
                 <ul className="space-y-4">
                     {[
                         "Advance payment is required to begin work.",
-                        "All project assets belong to Code Craft until full payment is made.",
+                        "All project assets belong to Code Cryptical IT Innovators until full payment is made.",
                         "Revisions are limited according to the agreed scope.",
                         "Client delays affect timeline; company is not responsible.",
                         "Completed work is non-refundable.",

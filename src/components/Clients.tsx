@@ -4,7 +4,7 @@ type ClientItem = { src?: string; name: string };
 
 const Clients = () => {
   useEffect(() => {
-    document.title = 'Code Craft It Solution';
+    document.title = 'Code Cryptical IT Innovators';
   }, []);
 
   // Load client images from `src/Assets` (Vite). Include nested folders and use eager glob.
@@ -96,7 +96,7 @@ const Clients = () => {
         <h2 className="font-display text-4xl lg:text-5xl font-bold mb-4">
           <span className="text-primary/80">⌜</span> Our Clients <span className="text-primary/80">⌝</span>
         </h2>
-        <p className="text-muted-foreground max-w-2xl mx-auto mb-10">
+        <p className="text-muted-foreground mx-auto mb-10">
           We don't just build software we build long-term partnerships with clients across industries.
         </p>
 

@@ -10,7 +10,7 @@ const SupportPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Support Center" 
-        description="Need help? Contact Code Craft It Solution support team via email or WhatsApp. We are here for you."
+        description="Need help? Contact Code Cryptical IT Innovators's support team via email or WhatsApp. We are here for you."
       />
       <Header />
       <main className="flex-grow pt-24">

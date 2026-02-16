@@ -120,10 +120,10 @@ const Header = () => {
             }}
           >
             <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center">
-              <img src={logo} alt="Code Craft It Solution logo" className="w-full h-full object-cover" />
+              <img src={logo} alt="Code Cryptical IT Innovators logo" className="w-full h-full object-cover" />
             </div>
             <span className="font-display font-bold text-xl text-foreground">
-              Code<span className="gradient-text"> Craft It</span> <span className="font-display font-bold text-xl text-foreground">Solution</span>
+              Code<span className="gradient-text"> Cryptical</span> <span className="font-display font-bold text-xl text-foreground">IT Innovators</span>
             </span>
           </motion.div>
 

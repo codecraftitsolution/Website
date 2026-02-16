@@ -9,8 +9,8 @@ const BlogPage = () => {
   return (
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
-        title="Blog" 
-        description="Insights, news, and articles from the Code Craft It Solution team. Learn about privacy policies, legal structures, and more."
+        title="Cookie Policy" 
+        description="Learn about how Code Cryptical IT Innovators uses cookies to enhance your experience."
       />
       <Header />
       <main className="flex-grow pt-24">
@@ -44,8 +44,7 @@ const BlogPage = () => {
                     Why Every IT Company Needs Clear Privacy & Legal Policies
                 </h2>
                 <p>
-                  In today’s digital world, IT companies handle more sensitive customer information than ever before. 
-                  At <strong>Code Craft It Solution</strong>, data privacy and client protection are core priorities.
+                  At <strong>Code Cryptical IT Innovators</strong>, data privacy and client protection are core priorities.
                 </p>
 
                 <div className="my-8 grid md:grid-cols-2 gap-6">
@@ -79,7 +78,7 @@ const BlogPage = () => {
                 </div>
 
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  These documents help reduce misunderstandings, ensure compliance, and create trust. 
+                  This Cookie Policy explains how Code Cryptical IT Innovators uses cookies to improve your experience on our website. 
                   For software companies, especially those handling custom projects, proper legal structure isn’t optional — it’s essential.
                 </p>
 

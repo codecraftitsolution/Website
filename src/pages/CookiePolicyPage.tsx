@@ -10,7 +10,7 @@ const CookiePolicyPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Cookie Policy" 
-        description="Learn about how Code Craft It Solution uses cookies to enhance your experience."
+        description="Learn about how Code Cryptical IT Innovators uses cookies to enhance your experience."
       />
       <Header />
       <main className="flex-grow pt-24">
@@ -30,7 +30,7 @@ const CookiePolicyPage = () => {
 
         <div className="glass-card p-8 md:p-12 rounded-2xl border border-white/10 backdrop-blur-md bg-black/40 prose prose-invert max-w-none">
           <p className="lead text-xl mb-8">
-            This Cookie Policy explains how Code Craft IT Solution uses cookies to improve your experience on our website.
+            This Cookie Policy explains how Code Cryptical IT Innovators uses cookies to improve your experience on our website.
           </p>
 
           <div className="space-y-8">

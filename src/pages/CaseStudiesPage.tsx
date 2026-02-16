@@ -8,9 +8,9 @@ import SEO from '@/components/SEO';
 const CaseStudiesPage = () => {
   return (
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
-      <SEO 
-        title="Case Studies" 
-        description="Discover how Code Craft It Solution solves complex problems. Read our case studies on privacy frameworks and more."
+      <SEO
+        title="Documentation"
+        description="Technical documentation, company policies, and project guidelines for Code Cryptical IT Innovators."
       />
       <Header />
       <main className="flex-grow pt-24">
@@ -25,7 +25,7 @@ const CaseStudiesPage = () => {
               <Briefcase className="w-16 h-16 mx-auto text-primary mb-6" />
               <h1 className="text-4xl md:text-5xl font-display font-bold mb-6">Case Studies</h1>
               <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-                Real-world examples of how we solve complex problems.
+                Summarizing how Code Cryptical IT Innovators manages client projects, privacy, and security.
               </p>
             </div>
 
@@ -35,7 +35,7 @@ const CaseStudiesPage = () => {
                     <div>
                         <span className="text-primary font-bold tracking-wider uppercase text-sm mb-2 block">Featured Case Study</span>
                         <h2 className="text-3xl font-bold mb-2">Privacy & Policy Framework Implementation</h2>
-                        <p className="text-muted-foreground">Client: Code Craft IT Solution</p>
+                        <p className="text-muted-foreground">Client: Code Cryptical IT Innovators</p>
                     </div>
                 </div>
 
@@ -54,7 +54,7 @@ const CaseStudiesPage = () => {
                         <div>
                             <h3 className="text-xl font-bold mb-4 text-white">The Challenge</h3>
                             <p className="text-muted-foreground text-sm leading-relaxed">
-                                Code Craft needed official policy documents to protect the company legally and ensure professionalism when dealing with international clients. The absence of structured documentation created potential for misunderstandings.
+                                Code Cryptical IT Innovators needed official policy documents to protect the company legally and ensure professionalism when dealing with international clients. The absence of structured documentation created potential for misunderstandings.
                             </p>
                         </div>
                         <div>
@@ -78,7 +78,7 @@ const CaseStudiesPage = () => {
                         </h3>
                         <div className="grid sm:grid-cols-2 gap-4">
                             {[
-                                "Clients now clearly understand project scope & rules",
+                                "All project assets belong to Code Cryptical IT Innovators until full payment is made.",
                                 "Reduced disputes and misunderstandings",
                                 "Improved professionalism & trust",
                                 "Easier onboarding for new clients",
@@ -97,7 +97,7 @@ const CaseStudiesPage = () => {
               <div className="bg-primary/10 p-6 border-t border-white/10">
                  <p className="text-center font-medium">
                     <span className="text-primary font-bold">Outcome: </span>
-                    Code Craft IT Solution now has a complete policy & documentation system, suitable for clients, employees, and corporate compliance.
+                    Code Cryptical IT Innovators now has a complete policy & documentation system, suitable for clients, employees, and corporate compliance.
                  </p>
               </div>
             </div>

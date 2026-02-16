@@ -24,7 +24,7 @@ const JobsPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Jobs & Careers" 
-        description="Join the Code Craft It Solution team. Explore full-time job opportunities and open positions."
+        description="Join the Code Cryptical IT Innovators team. Explore full-time job opportunities and open positions."
       />
       <Header />
       <main className="flex-grow pt-24">

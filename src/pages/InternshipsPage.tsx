@@ -24,7 +24,7 @@ const InternshipsPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Internship Programs" 
-        description="Kickstart your career with Code Craft It Solution's internship programs for fresh talent."
+        description="Kickstart your career with Code Cryptical IT Innovators's internship programs for fresh talent."
       />
       <Header />
       <main className="flex-grow pt-24">

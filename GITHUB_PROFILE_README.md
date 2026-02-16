@@ -1,6 +1,6 @@
-# Hi there, welcome to Code Craft It Solution! 👋
+# Hi there, welcome to Code Cryptical IT Innovators! 👋
 
-[![Code Craft It Solution Banner](https://raw.githubusercontent.com/codecraftitsolution/.github/main/profile/banner.png)](https://codecraftpakistan.github.io/Final-website/)
+[![Code Cryptical IT Innovators Banner](https://raw.githubusercontent.com/codecraftitsolution/.github/main/profile/banner.png)](https://codecraftpakistan.github.io/Final-website/)
 
 > **Premium Software Agency based in Peshawar, Pakistan.**  
 > *Transforming ideas into powerful digital solutions.*
@@ -9,7 +9,7 @@
 
 ### 🚀 Who We Are
 
-**Code Craft It Solution** is a leading software development company dedicated to delivering innovative digital products. From concept to deployment, we craft experiences that inspire and build businesses that thrive in the digital age.
+**Code Cryptical IT Innovators** is a leading software development company dedicated to delivering innovative digital products. From concept to deployment, we craft experiences that inspire and build businesses that thrive in the digital age.
 
 *   🌍 **Location**: Abdara Road, Peshawar, Pakistan
 *   📧 **Contact**: [codecraftitsol@gmail.com](mailto:codecraftitsol@gmail.com)
@@ -61,10 +61,10 @@ We build with the best modern tools:
 
 ### 📈 GitHub Stats
 
-![Code Craft's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftitsolution&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Code Cryptical IT Innovators's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftitsolution&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Code Craft It Solution Team</sub>
+  <sub>Built with ❤️ by Code Cryptical IT Innovators Team</sub>
 </div>

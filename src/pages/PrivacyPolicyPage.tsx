@@ -10,7 +10,7 @@ const PrivacyPolicyPage = () => {
     <div className="min-h-screen bg-background overflow-x-hidden flex flex-col">
       <SEO 
         title="Privacy Policy" 
-        description="Read Code Craft It Solution's Privacy Policy to understand how we collect, use, and protect your data."
+        description="Read Code Cryptical IT Innovators's Privacy Policy to understand how we collect, use, and protect your data."
       />
       <Header />
       <main className="flex-grow pt-24">
@@ -30,7 +30,7 @@ const PrivacyPolicyPage = () => {
 
         <div className="glass-card p-8 md:p-12 rounded-2xl border border-white/10 backdrop-blur-md bg-black/40 prose prose-invert max-w-none">
           <p className="lead text-xl mb-8">
-            This Privacy Policy explains how Code Craft It Solution ("Company", "we", "our", "us") collects, uses, protects, and manages information when clients interact with us, use our services, or visit our website.
+            This Privacy Policy explains how Code Cryptical IT Innovators ("Company", "we", "our", "us") collects, uses, protects, and manages information when clients interact with us, use our services, or visit our website.
           </p>
 
           <div className="space-y-8">
@@ -99,7 +99,7 @@ const PrivacyPolicyPage = () => {
                 4. Data Protection & Security
               </h2>
               <p className="text-muted-foreground">
-                Code Craft It Solution uses technical and organizational safeguards to secure client information.
+                Code Cryptical IT Innovators uses technical and organizational safeguards to secure client information.
                 However, no digital system is entirely risk‑free.
               </p>
             </section>
@@ -144,7 +144,7 @@ const PrivacyPolicyPage = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">8. Updates to This Policy</h2>
               <p className="text-muted-foreground">
-                Code Craft It Solution may update this policy periodically.
+                Code Cryptical IT Innovators may update this policy periodically.
                 Changes will be posted with an updated "Last Updated" date.
               </p>
             </section>
@@ -154,7 +154,7 @@ const PrivacyPolicyPage = () => {
               <p className="text-muted-foreground mb-2">For privacy-related questions, contact us at:</p>
               <div className="bg-muted/30 p-4 rounded-lg border border-white/5">
                 <p className="text-white">📧 codecraftitsol@gmail.com</p>
-                <p className="text-white">📍 Code Craft It Solution, Pakistan</p>
+                <p className="text-white">📍 Code Cryptical IT Innovators, Pakistan</p>
               </div>
             </section>
           </div>
